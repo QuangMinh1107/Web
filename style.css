@@ -1,0 +1,35 @@
+.container{
+    background-color: beige;
+    border: 1px grey solid;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.logo h1{
+    text-transform: uppercase;
+    color: lightcoral;
+}
+.content{
+    display: block;
+    margin-top: 10px;
+    padding-left: 5px;
+    background-color: lavender;
+}
+.content span{
+    text-transform: uppercase;
+    padding-left: 15px;
+}
+.content p {
+    text-indent: 15px;
+    padding-right: 5px;
+}
+.content img{
+    display: block;
+    margin: 15px auto;
+}
+.foot{
+    display: block;
+    padding-right: 5px;
+    background-color: black;
+    color:white;
+    text-align: right;
+}

@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    padding: 10px 15px;
+    background-color: rgb(224, 224, 238);
+    color: rgb(58, 54, 53)
+}
+.sologan, .header{
+    text-align: center;
+}
+.header h1{
+    font-size: 1.5;
+}
+.content{
+    margin-top: 30px;
+}
+.content p {
+    color: rgb(122, 105, 91);
+}
+.footer{
+    display: block;
+    float: right;
+}
+.footer p:first-child{
+    font-style: italic;
+}
+#signature{
+    text-align: center;
+}
